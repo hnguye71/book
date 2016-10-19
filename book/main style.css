@@ -1,0 +1,34 @@
+body {
+	background-color: black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-image: url(wood.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+
+h1 {
+	color:black;
+	margin-top:05%;
+	text-align:center;
+	font-family: arial,"Times New Roman",Times,serif;
+	
+}
+form {
+	margin-left:35%;
+	
+}
+
+input {
+	outline: 1px solid brown;
+}
+
+button {
+	margin-right:03%;
+	background-color:yellow;
+	color: black;
+}
